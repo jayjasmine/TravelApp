@@ -1,2 +1,7 @@
 server/.env
+server/package-lock.json
+server/node_modules/
 TravelApp/.env
+TravelApp/package-lock.json
+TravelApp/node_modules/
+node_modules/
